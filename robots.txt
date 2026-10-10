@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://time-until-countdown.github.io/sitemap.xml
